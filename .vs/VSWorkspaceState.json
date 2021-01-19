@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\qtd-exames",
+    "\\src\\pages\\qtd-municipios-casos-confirmados",
+    "\\src\\pages\\qtd-obitos",
+    "\\src\\pages\\qtd-por-faixa-etaria-sexo",
+    "\\src\\pages\\qtd-por-municipio",
+    "\\src\\pages\\qtd-por-tipo",
+    "\\src\\pages\\qtd-suspeitos"
+  ],
+  "SelectedNode": "\\src\\pages\\qtd-municipios-casos-confirmados\\index.js",
+  "PreviewInSolutionExplorer": false
+}
